@@ -1,6 +1,6 @@
 public class Total {
 	
-	WebView adView;
+	WebView View;
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
